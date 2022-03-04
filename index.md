@@ -4,7 +4,10 @@ layout: default
 
 Text can be **bold**, _italic_, or ~~strikethrough~~.
 
-[Link to another page](./another-page.html).
+[Link to My Itch.IO page](https://staledonut.itch.io/).
+
+## **3D Things ive made.**
+[Link to 3D page](./3D-Stuff.html).
 
 There should be whitespace between paragraphs.
 
@@ -14,11 +17,7 @@ There should be whitespace between paragraphs. We recommend including a README, 
 
 This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
 
-## Header 2
 
-> This is a blockquote following a header.
->
-> When something is important enough, you do it even if the odds are not in your favor.
 
 ### Header 3
 
@@ -37,9 +36,6 @@ GitHubPages::Dependencies.gems.each do |gem, version|
 end
 ```
 
-<div class="sketchfab-embed-wrapper"> 
-<iframe title="PixelShip" frameborder="0" allowfullscreen mozallowfullscreen="true" webkitallowfullscreen="true" allow="autoplay; fullscreen; xr-spatial-tracking" xr-spatial-tracking execution-while-out-of-viewport execution-while-not-rendered web-share src="https://sketchfab.com/models/c7d86d2b935b4e55a7c8086ec9140721/embed?ui_theme=dark"> </iframe> <p style="font-size: 13px; font-weight: normal; margin: 5px; color: #4A4A4A;">
-<a href="https://sketchfab.com/3d-models/pixelship-c7d86d2b935b4e55a7c8086ec9140721?utm_medium=embed&utm_campaign=share-popup&utm_content=c7d86d2b935b4e55a7c8086ec9140721" target="_blank" style="font-weight: bold; color: #1CAAD9;"> PixelShip </a> by <a href="https://sketchfab.com/staledonuts?utm_medium=embed&utm_campaign=share-popup&utm_content=c7d86d2b935b4e55a7c8086ec9140721" target="_blank" style="font-weight: bold; color: #1CAAD9;"> staledonuts </a> on <a href="https://sketchfab.com?utm_medium=embed&utm_campaign=share-popup&utm_content=c7d86d2b935b4e55a7c8086ec9140721" target="_blank" style="font-weight: bold; color: #1CAAD9;">Sketchfab</a></p></div>
 
 #### Header 4
 
