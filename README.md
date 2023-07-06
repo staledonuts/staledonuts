@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @staledonuts
 - 👀 I’m interested in videogames stuff
-- 🌱 I’m currently learning C# and cpp
+- 🌱 I’m currently learning C#
 - 💞️ I’m looking to collaborate on nothing really
 - 📫 How to reach me ...
 - https://www.deaddonut.se/
